@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="strGenre">Genre:</string>
+    <string name="strAll">All</string>
+    <string name="strFilter">Filter</string>
+    <string name="strNull" />
+</resources>
